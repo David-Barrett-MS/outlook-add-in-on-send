@@ -4,7 +4,7 @@
 
 This uses OnSend event (https://learn.microsoft.com/en-us/office/dev/add-ins/outlook/outlook-on-send-addins?tabs=windows)
 
-## Contoso LauchEvent OnMessageSend.xml
+## Contoso LaunchEvent OnMessageSend.xml
 
 This uses OnMessageSend (https://learn.microsoft.com/en-us/office/dev/add-ins/outlook/onmessagesend-onappointmentsend-events)
 
